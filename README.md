@@ -1,1 +1,1 @@
-# alan_ai_news_application
+# Build and Deploy an ARTIFICIAL INTELLIGENCE React App | Alan AI, JavaScript
